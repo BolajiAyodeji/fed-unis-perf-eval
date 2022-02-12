@@ -6,5 +6,5 @@ The auditing is performed using [Google Lighthouse](https://developers.google.co
 
 - The generated report for each university is available in JSON, HTML, and CSV formats.
 - The generated report for each university can be found in the `/lighthouse report/<university name>` directory.
-- The generated summary report for each university can be found in the [`summary.json`](./summary.json) file (view the RAW format [here](https://raw.githubusercontent.com/BolajiAyodeji/fed-unis-perf-eval/main/summary.json).
+- The generated summary report for each university can be found in the [`summary.json`](./summary.json) file (view the RAW format [here](https://raw.githubusercontent.com/BolajiAyodeji/fed-unis-perf-eval/main/summary.json)).
 - The concluding report data for the research can be found in the [`summary.csv`](.summary.csv) file.
