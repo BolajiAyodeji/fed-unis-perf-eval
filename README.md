@@ -27,7 +27,7 @@ The table below lists out the universities evaluated and a link to view the gene
 | 10. | Federal University Kashere                        | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Kashere/fukashere_edu_ng_.report.html)                             |
 | 11. | Federal University Lafia                          | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Lafia/fulafia_edu_ng_.report.html)                                 |
 | 12. | Federal University Lokoja                         | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Lokoja/fulokoja_edu_ng_.report.html)                               |
-| 13. | Federal University Ndifu-Alike                    | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Ndifu-Alike/funai_edu_ng_.report.html)                             |
+| 13. | Alex Ekwueme Federal University Ndifu-Alike                    | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Ndifu-Alike/funai_edu_ng_.report.html)                             |
 | 14. | Federal University Otuoke                         | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Otuoke/fuotuoke_edu_ng_.report.html)                               |
 | 15. | Federal University Oye-Ekiti                      | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Oye-Ekiti/fuoye_edu_ng_.report.html)                               |
 | 16. | Federal University Wukari                         | [click_here](https://fed-unis-perf-eval.netlify.app/Federal%20University%20Wukari/fuwukari_edu_ng_.report.html)                               |
