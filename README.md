@@ -60,3 +60,47 @@ The table below lists out the universities evaluated and a link to view the gene
 | 43. | University of Port-Harcourt                       | [click_here](https://fed-unis-perf-eval.netlify.app/University%20of%20Port-Harcourt/uniport_edu_ng_.report.html)                              |
 | 44. | University of Uyo                                 | [click_here](https://fed-unis-perf-eval.netlify.app/University%20of%20Uyo/uniuyo_edu_ng_.report.html)                                         |
 | 45. | Usman Danfodiyo University                        | [click_here](https://fed-unis-perf-eval.netlify.app/Usman%20Danfodiyo%20University/udusok_edu_ng_.report.html)                                |
+
+## Findings
+
+The aggregated results obtained from Google Lighthouse are visualized using histogram graphs as seen in figures below.
+
+### Histogram ranking for the performance metric
+
+![](./data/perf-all.png)
+
+### The top 5 Universities with the highest performance score
+
+![](./data/perf-top5.png)
+
+### Histogram ranking for the accessibility metric
+
+![](./data/a11y-all.png)
+
+### The top 5 Universities with the highest accessibility score
+
+![](./data/a11y-top5.png)
+
+### Histogram ranking for the best-practices metric
+
+![](./data/bp-all.png)
+
+### The top 5 Universities with the highest best-practices score
+
+![](./data/bp-top5.png)
+
+### Histogram ranking for the SEO metric
+
+![](./data/seo-all.png)
+
+### The top 5 Universities with the highest SEO score
+
+![](./data/seo-top5.png)
+
+### Histogram ranking for the aggregated average score
+
+![](./data/ascore-all.png)
+
+### The top 5 Universities with the highest aggregated average score
+
+![](./data/ascore-top5.png)
