@@ -1,17 +1,17 @@
 # fed-unis-perf-eval
 
-The aim of this study is to evaluate the accessibility and performance of the official websites of the forty-nine (49) accredited Federal Universities in Nigeria by using the Google Lighthouse web auditing tool. The auditing is performed using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and the [lighthouse-batch](https://github.com/mikestead/lighthouse-batch) library. 
+The aim of this study is to evaluate the accessibility and performance of the official websites of the forty-nine (49) accredited Federal Universities in Nigeria by using the Google Lighthouse web auditing tool. The auditing is performed using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) and the [lighthouse-batch](https://github.com/mikestead/lighthouse-batch) open-source library. 
 
 Kindly note the following:
 
 - The generated report for each university is available in JSON, HTML, and CSV formats.
 - The generated report for each university can be found in the `/lighthouse report/<university name>` directory.
-- The generated summary report for each university can be found in the [`summary.json`](./summary.json) file (view the RAW format [here](https://raw.githubusercontent.com/BolajiAyodeji/fed-unis-perf-eval/main/summary.json)).
+- The generated summary report for each university can be found in the [`summary.json`](./summary.json) file (view the RAW format [here](https://fed-unis-perf-eval.netlify.app/summary.json)).
 - The concluding report data for the research can be found in the [`summary.csv`](./summary.csv) file.
 
 ## Lighthouse Report
 
-The table below lists out the universities evaluated and a link to view the generated HTML report which includes the website performance results, runtime settings, errors found, reference links to learn more about each error, and Lighthouse recommended improvements.
+The table below lists out the universities evaluated and a link to view the generated HTML report which includes the website performance results, runtime configuration settings, errors found, reference links to learn more about each error, and Lighthouse recommended improvements.
 
 | S/N | **University name**                               | **Link to full report**                                                                    |
 |-----|---------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -63,7 +63,7 @@ The table below lists out the universities evaluated and a link to view the gene
 
 ## Results and Findings
 
-The aggregated results for each metric obtained from Google Lighthouse are visualized using histogram graphs as seen in [this document](https://github.com/BolajiAyodeji/fed-unis-perf-eval/blob/main/data/visualized_results.pdf). Out of the 45 universities evaluated, the table below gives the summary of the results for the four (4) metrics – performance, accessibility, best practices and search engine optimization (SEO), presenting the number of universities that scored less than 50% (poor score), greater than 50% (needs-improvement score) and greater than 90% (Good score). 
+The aggregated results for each metric obtained from Google Lighthouse are visualized using histogram graphs as seen in [this document](https://fed-unis-perf-eval.netlify.app/data/results.pdf). Out of the 45 universities evaluated, the table below gives the summary of the results for the four (4) metrics – performance, accessibility, best practices and search engine optimization (SEO), presenting the number of universities that scored less than 50% (poor score), greater than 50% (needs-improvement score) and greater than 90% (Good score). 
 
 | **Metrics**       | **No of Universities with Poor score (<50%)** | **No of Universities with Needs-improvement score (>50%)** | **No of Universities with Good score (>90%)** |
 |-------------------|-----------------------------------------------|------------------------------------------------------------|-----------------------------------------------|
